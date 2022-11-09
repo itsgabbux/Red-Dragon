@@ -31,12 +31,12 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owner v card
 global.vcardowner = ['+393755950457'] // owner number
 global.ownername = "❯❯𝑮𝑨𝑩𝑩𝑼𝑿❯❯" // owner name
-global.ytname = "" // yt chanel name
+global.ytname = "YOUTUBE: itsgabbux" // yt chanel name
 global.socialm = "INSTAGRAM: itsgabbux" // github or insta name
 global.location = "Europe, Italy, Turin" // location
 
 //bot body 
-global.alivepic = `https://i.ibb.co/cyyCjN7/20220803-081426.png` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
+global.alivepic = `https://ibb.co/9h0xF03` // alive picture \\ use "https://ibb.com" to upload photos. < 1 MB
 
 global.dragonchat = "false"  // chat bot  "true" / "false" (200 auto replies in this)
 global.callblock = "false" // call block "true" / "false" ("true"  to block callers)
